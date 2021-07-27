@@ -1,0 +1,82 @@
+.adminHeaderPage {
+  margin-left: 200px;
+  padding-right: 50px;
+  max-width: 1150px;
+  min-width: 300px;
+  max-height: 120px;
+  min-height: 70px;
+  background: #190061;
+  display: flex;
+  justify-content: space-between;
+}
+
+.adminHeaderPageHeading {
+  font-family: "Oswald", sans-serif;
+  color: white;
+  margin: 0px;
+  padding-left: 70px;
+  padding-top: 20px;
+  font-size: 25px;
+  text-align: left;
+}
+
+.logoutButton {
+  background-color: white !important;
+  color: #190061 !important;
+  height: 35px !important;
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+}
+h1 {
+  margin-top: 40px;
+  color: black;
+  padding-left: 100px;
+  font-style: oblique;
+  font-weight: bold;
+}
+.slideBar {
+  position: fixed;
+  top: 0%;
+  height: 100%;
+  width: 200px;
+  color: rgb(221, 203, 203);
+  background-color: black;
+}
+
+.dashboard {
+  height: 130px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+.dashboardHeading {
+  padding-top: 30px;
+  font-weight: bold;
+  font-style: italic;
+  color: white;
+}
+
+.dashboardLinks {
+  height: 200px;
+  margin: auto;
+  padding: 20px;
+  padding-left: 40px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.linkColor {
+  color: white;
+}
+
+.body {
+  margin-left: 200px;
+  min-width: 300px;
+  max-width: 1150px;
+}
+.dashboardBody {
+  min-height: 500px;
+  margin: 50px auto 50px auto;
+}

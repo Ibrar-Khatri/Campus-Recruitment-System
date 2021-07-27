@@ -1,0 +1,40 @@
+
+
+.footer {
+    max-width: 100%;
+    min-width: 300px;
+    background-color: #190061;
+    min-height: 150px;
+    max-height: 380px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+
+    flex-wrap: wrap;
+}
+
+.text1 {
+    margin-bottom: 20px;
+}
+
+.text1 p {
+    padding: 0px;
+    margin: 0px;
+}
+.text2 p {
+    max-width: 700px;
+    min-width: 250px;
+    
+}
+.text-size1 {
+    font-size: 25px;
+    margin-bottom: 0%;
+}
+
+
+
+

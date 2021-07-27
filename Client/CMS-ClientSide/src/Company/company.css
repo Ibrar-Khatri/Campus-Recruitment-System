@@ -1,0 +1,73 @@
+
+.companyHeaderPage {
+    margin-left: 200px;
+    padding-right: 50px;
+    max-width: 1150px;
+    min-width: 300px;
+    max-height: 120px;
+    min-height: 70px;
+    background: #190061;
+    display: flex;
+    justify-content:space-between;
+}
+
+.logoutButton{
+    background-color: white !important;
+    color: #190061 !important;
+    height: 35px !important;
+    margin-top:auto !important;
+    margin-bottom:auto !important;
+}
+
+.companyHeaderPageHeading {
+    font-family: 'Oswald', sans-serif;
+    color: beige;
+    margin: 0px;
+    padding-left: 70px;
+    padding-top: 20px;
+    font-size: 25px;
+    text-align: left;
+}
+
+.slideBar {
+    position:fixed;
+    top: 0%;
+    height: 100%;
+    width: 200px;
+    color: rgb(221, 203, 203);
+    background-color: black;
+}
+
+.companyName{
+    height: 130px;
+    margin: auto;
+    border-bottom-width: 70%;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.links{
+    height: 200px;
+    margin: auto;
+    padding: 20px;
+    padding-left: 40px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.linkColor {
+    color: white;
+}
+
+.body{
+    margin-left: 200px;
+    min-width: 300px;
+    max-width: 1150px;
+}
+
+.companyBody {
+    min-height: 500px;
+    margin: 50px auto 50px auto;
+}

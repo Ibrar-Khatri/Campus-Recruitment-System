@@ -1,0 +1,53 @@
+.formHeader {
+    max-width: 100%;
+    min-width: 50%;
+    max-height: 150px;
+    min-height: 100px;
+    background: #190061;
+}
+
+.formHeading1 {
+    font-family: 'Oswald', sans-serif;
+    color: beige;
+    margin: 0px;
+    padding-left: 80px;
+    padding-top: 30px;
+    text-align: start;
+    font-size: 30px;
+}
+
+.signup h1 {
+    color: black;
+    font-family: 'Playfair Display', serif;
+}
+
+.signup {
+    /* background-color: yellow; */
+    padding: 20px 40px 20px 40px;
+    margin: 40px auto 80px auto;
+    max-width: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid #190061;
+    border-radius: 20px;
+}
+
+
+.loginLink {
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.signupLink {
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+.loginBody{
+    min-height: 500px;
+}
